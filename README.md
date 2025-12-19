@@ -1,60 +1,66 @@
-<h1 align="center">✨ Hey! I'm <span style="color:#ff6f61;">Sanjana Velma</span> ✨</h1>
+<h1 align="center">🌷 Hey Lovely! I'm <span style="color:#ff9eb5;">Sanjana Velma</span> 🌷</h1>
 
 <p align="center">
-A curious mind with a paintbrush in one hand 🎨 and code in the other 💻<br>
-Turning ideas into art — whether on canvas or in code 🚀
+💗 A girl who codes with creativity & paints with passion 🎨 <br>
+✨ Blending <b>tech + art</b> to build things that feel beautiful 💫
 </p>
 
 ---
 
-## 🌼 Who Am I?
+## 🌸 About Me
 - 🎓 Final Year **B.Tech CSE**
-- 👩‍💻 Passionate about **Frontend Development | AI | Data Science**
-- 🎨 Freelance Artist | Built my own art brand *Artistic Sisters*
-- 🧠 I love solving problems & building things people enjoy using
-- 🌱 Currently exploring **LLMs + Full Stack + AI powered apps**
-- ✨ Personal motto: *Make things that make people feel something*
+- 💻 Exploring **Frontend | AI | Data | Full Stack**
+- 🎨 Freelance Artist — Owner of *Artistic Sisters*
+- 🌱 Always learning, improving & creating
+- ✨ Motto: *Soft heart. Sharp brain. Pretty dreams.*
 
 ---
 
-## 💻 Tech Playground
-| Category | Skills |
-|--------|--------|
-| **Languages** | Python, Java, C, SQL |
-| **Frontend** | HTML, CSS, JavaScript, React |
-| **Data** | Pandas, NumPy, Tableau, Power BI |
-| **Tools** | Git, GitHub, VS Code |
-
----
-
-## 🔥 What I'm Proud Of
-🌟 `ArtGenie` – AI + Art personalized web app  
-🌟 Built and designed my own portfolio website  
-🌟 Balanced Engineering + Art beautifully  
-🌟 Completed multiple certifications & internships  
-
----
-
-## 🎯 My Current Focus
-🛠 Building meaningful projects  
-🚀 Preparing for industry opportunities  
-💡 Exploring AI creativity + innovation  
-
----
-
-## 📊 GitHub Magic
+## 🧁 Tech Delights
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanjanavelma&show_icons=true&theme=radical" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanavelma&layout=compact&theme=radical" height="170">
+  <img src="https://img.shields.io/badge/Python-ffb3c6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Java-ffd6e8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/C-ffe4ec?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQL-ffccd9?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/HTML-ffd1f0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS-ffb3da?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-ffc2e2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/React-ff9fcf?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/Pandas-ffd9ec?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Numpy-ffe6f3?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tableau-ffcfe5?style=for-the-badge">
 </p>
 
 ---
 
-## 🌐 Let’s Connect
+## 🌼 Little Achievements
+✨ Built **ArtGenie — AI + Art Project**  
+✨ Created & designed my own portfolio  
+✨ Balanced Engineering & Art beautifully  
+✨ Constantly growing + glowing 🌸
+
+---
+
+## 🥺 Currently
+🌷 Learning  
+🌷 Building  
+🌷 Dreaming big
+
+---
+
+## 🐰 Soft GitHub Stats
 <p align="center">
-<a href="https://www.linkedin.com/in/-sanjanareddy-velma/">LinkedIn</a> •
-<a href="https://github.com/sanjanavelma">GitHub</a> •
-<a href="https://artistic-sisters.lovable.app/">Artistic Sisters</a>
+<img src="https://github-readme-stats.vercel.app/api?username=sanjanavelma&show_icons=true&title_color=ff9eb5&icon_color=ff9eb5&text_color=ff6f91&bg_color=fff5fa" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanavelma&layout=compact&title_color=ff9eb5&text_color=ff6f91&bg_color=fff5fa" height="170">
 </p>
 
-<h3 align="center">🌷 Thanks for visiting — hope something here inspires you 🌷</h3>
+---
+
+## 💌 Let’s Be Friends!
+<p align="center">
+<a href="#">🌸 LinkedIn</a> •
+<a href="https://github.com/sanjanavelma">🌸 GitHub</a> •
+<a href="#">🌸 Artistic Sisters</a>
+</p>
+
+<h3 align="center">🫶 Thanks for stopping by — sending you soft sunshine vibes 🌼</h3>
