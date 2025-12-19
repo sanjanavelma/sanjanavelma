@@ -52,9 +52,9 @@ Turning ideas into art — whether on canvas or in code 🚀
 
 ## 🌐 Let’s Connect
 <p align="center">
-<a href="#">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/-sanjanareddy-velma/">LinkedIn</a> •
 <a href="https://github.com/sanjanavelma">GitHub</a> •
-<a href="#">Artistic Sisters</a>
+<a href="https://artistic-sisters.lovable.app/">Artistic Sisters</a>
 </p>
 
 <h3 align="center">🌷 Thanks for visiting — hope something here inspires you 🌷</h3>
