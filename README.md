@@ -58,7 +58,7 @@
 
 ## 💌 Let’s Be Friends!
 <p align="center">
-<a href="#">🌸 LinkedIn</a> •
+<a href="https://www.linkedin.com/in/-sanjanareddy-velma/">🌸 LinkedIn</a> •
 <a href="https://github.com/sanjanavelma">🌸 GitHub</a> •
 <a href="#">🌸 Artistic Sisters</a>
 </p>
