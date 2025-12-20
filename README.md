@@ -1,66 +1,43 @@
-<h1 align="center">🌷 Hey Lovely! I'm <span style="color:#ff9eb5;">Sanjana Velma</span> 🌷</h1>
+# 👩‍💻 Sanjana Velma
 
-<p align="center">
-💗 A girl who codes with creativity & paints with passion 🎨 <br>
-✨ Blending <b>tech + art</b> to build things that feel beautiful 💫
-</p>
-
----
-
-## 🌸 About Me
-- 🎓 Final Year **B.Tech CSE**
-- 💻 Exploring **Frontend | AI | Data | Full Stack**
-- 🎨 Freelance Artist — Owner of *Artistic Sisters*
-- 🌱 Always learning, improving & creating
-- ✨ Motto: *Soft heart. Sharp brain. Pretty dreams.*
+### B.Tech CSE | AI | Full Stack | Data Science  
+📍 India | ✉️ sanjanavelma27@gmail.com | 🌐 sanjana-velma.lovable.app  
+🔗 LinkedIn: linkedin.com/in/-sanjanareddy-velma/ | GitHub: github.com/sanjanavelma
 
 ---
 
-## 🧁 Tech Delights
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ffb3c6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Java-ffd6e8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/C-ffe4ec?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SQL-ffccd9?style=for-the-badge"><br>
-  <img src="https://img.shields.io/badge/HTML-ffd1f0?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS-ffb3da?style=for-the-badge">
-  <img src="https://img.shields.io/badge/JavaScript-ffc2e2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/React-ff9fcf?style=for-the-badge"><br>
-  <img src="https://img.shields.io/badge/Pandas-ffd9ec?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Numpy-ffe6f3?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tableau-ffcfe5?style=for-the-badge">
-</p>
+## 🔹 Skills
+**Programming:** Python, Java, C  
+**Frameworks:** Flask, TensorFlow, Pandas, NumPy  
+**Databases:** MySQL, MongoDB, Power BI, Excel, Tableau  
+**Web:** HTML, CSS, JavaScript, React  
+**Soft Skills:** Teamwork, Adaptability, Critical Thinking, Resilience
 
 ---
 
-## 🌼 Little Achievements
-✨ Built **ArtGenie — AI + Art Project**  
-✨ Created & designed my own portfolio  
-✨ Balanced Engineering & Art beautifully  
-✨ Constantly growing + glowing 🌸
+## 🔹 Projects
+- **Neural Style Transfer Web App** — Flask + TensorFlow Hub  
+- **Library Management System** — Java Swing + SQL  
+- **Plant Disease Detection (CNN | 98% Accuracy)** — TensorFlow + OpenCV  
 
 ---
 
-## 🥺 Currently
-🌷 Learning  
-🌷 Building  
-🌷 Dreaming big
+## 🔹 Certifications
+MongoDB with Python • Microsoft CV Azure • Full Stack Bootcamp • Tableau
 
 ---
 
-## 🐰 Soft GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanjanavelma&show_icons=true&title_color=ff9eb5&icon_color=ff9eb5&text_color=ff6f91&bg_color=fff5fa" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanavelma&layout=compact&title_color=ff9eb5&text_color=ff6f91&bg_color=fff5fa" height="170">
-</p>
+## 🔹 Achievements
+🏆 100+ DSA Problems • 🥇 Python 5⭐ HackerRank  
+🎖️ Top 20 — Agrithon Hackathon  
+🎨 100+ Commissioned Artworks Delivered
 
 ---
 
-## 💌 Let’s Be Friends!
-<p align="center">
-<a href="https://www.linkedin.com/in/-sanjanareddy-velma/">🌸 LinkedIn</a> •
-<a href="https://github.com/sanjanavelma">🌸 GitHub</a> •
-<a href="#">🌸 Artistic Sisters</a>
-</p>
+## 🎓 Education
+**Lovely Professional University**  
+B.Tech CSE — CGPA 8.15
 
-<h3 align="center">🫶 Thanks for stopping by — sending you soft sunshine vibes 🌼</h3>
+---
+
+⭐ *Blending Technology + Art to create meaningful digital experiences*
