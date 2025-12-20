@@ -76,8 +76,9 @@ CNN based plant disease classifier with 98% accuracy
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sanjanavelma&theme=flat&no-frame=true&row=1&column=7&margin-w=5&margin-h=5&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjanavelma&theme=oldie&no-frame=true&no-bg=true&margin-w=5&margin-h=5" />
 </p>
+
 
 ---
 
