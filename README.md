@@ -21,7 +21,8 @@ Blending <b>Tech + Art + AI</b> to build experiences that feel beautiful 💫
   <img src="https://img.shields.io/badge/Python-ffb3c6?style=for-the-badge">
   <img src="https://img.shields.io/badge/Java-ffd6e8?style=for-the-badge">
   <img src="https://img.shields.io/badge/C-ffe4ec?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SQL-ffccd9?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/SQL-ffccd9?style=for-the-badge">
+  <img src="https://img.shields.io/badge/C%23-ff9ecf?style=for-the-badge"><br>
 
   <img src="https://img.shields.io/badge/HTML-ffd1f0?style=for-the-badge">
   <img src="https://img.shields.io/badge/CSS-ffb3da?style=for-the-badge">
@@ -90,4 +91,4 @@ CNN based plant disease classifier with 98% accuracy
 
 ---
 
-<h3 align="center">🫶 Thanks for stopping by — sending you soft sunshine vibes 🌼</h3>
+<h3 align="center">Thanks for stopping by </h3>
