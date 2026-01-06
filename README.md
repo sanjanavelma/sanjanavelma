@@ -67,19 +67,7 @@ CNN based plant disease classifier with 98% accuracy
 - Tableau Fundamentals — 2023  
 
 ---
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanjanavelma&show_icons=true&title_color=ff9eb5&icon_color=ff9eb5&text_color=ff6f91&bg_color=fff5fa&cache_seconds=1800" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanavelma&layout=compact&title_color=ff9eb5&text_color=ff6f91&bg_color=fff5fa&cache_seconds=1800" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjanavelma&theme=oldie&no-frame=true&no-bg=true&margin-w=5&margin-h=5&cache_seconds=1800" />
-</p>
-
-
-
----
 
 ## 📬 Contact Me
 <p align="center">
