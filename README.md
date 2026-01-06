@@ -12,7 +12,6 @@ Blending <b>Tech + Art + AI</b> to build experiences that feel beautiful 💫
 - 💻 Exploring **Full Stack | AI/ML | Data Science | Frontend Development | .Net**  
 - 🎨 Freelance Artist — Owner of <b>Artistic Sisters</b>  
 - 🧠 Solved <b>100+ DSA</b> problems • 5⭐ Python @ HackerRank • Top 20 in Agrithon 2025  
-- ✨ Motto: *Soft heart • Sharp brain • Pretty dreams*
 
 ---
 
