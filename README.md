@@ -52,7 +52,7 @@ CNN based plant disease classifier with 98% accuracy
 ---
 
 ## 🏆 Achievements
-✨ 100+ DSA Problems | 92.31% acceptance  
+✨ 200+ DSA Problems | 92.31% acceptance  
 ✨ 🥇 Python Gold 5⭐ | SQL 4⭐ (HackerRank)  
 ✨ 🎖️ Top 20 — Agrithon Hackathon 2025  
 ✨ 🎨 Completed 100+ Art Commissions All Over India  
