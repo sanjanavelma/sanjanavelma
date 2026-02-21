@@ -8,7 +8,7 @@ Blending <b>Tech + Art + AI</b> to build experiences that feel beautiful 💫
 ---
 
 ## 🌸 About Me
-- 🎓 Final Year **B.Tech CSE (CGPA: 8.36)** @ Lovely Professional University  
+- 🎓 Final Year **B.Tech CSE (CGPA: 8.39)** @ Lovely Professional University  
 - 💻 Exploring **Full Stack | AI/ML | Data Science | Frontend Development | .Net**  
 - 🎨 Freelance Artist — Owner of <b>Artistic Sisters</b>  
 - 🧠 Solved <b>100+ DSA</b> problems • 5⭐ Python @ HackerRank • Top 20 in Agrithon 2025  
